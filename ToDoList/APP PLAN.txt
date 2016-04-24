@@ -1,0 +1,7 @@
+1. Make sure to keep the app simpe and user friendly.
+2. Make an area for the user to input their desired tasks.
+3. Provide a way to mark the tasks as complete.
+4. Implement an information section that contains a user tutorial and any other relevant Information.
+5. Compile the app and build for Android v6.
+6. Upload apk and app folder to a git repository.
+7. Submit the repository URL to moodle.

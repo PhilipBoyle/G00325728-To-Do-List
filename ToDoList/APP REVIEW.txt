@@ -1,0 +1,8 @@
+The app is now completed.
+It is a bit more simple than I would have liked but it gets the job done.
+The only major problem with the app is that it does not save the task when the app is exited. 
+This makes the app only useful for short term tasks.
+
+Overall I am quite pleased with the app.
+
+Thanks for reading - Philip G00325728@gmit.ie
